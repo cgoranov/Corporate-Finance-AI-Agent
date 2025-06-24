@@ -21,12 +21,12 @@ This is a finance automation tool designed to assist with month-end close analys
 ## 📁 Project Structure
 
 month_end_agent/
-├── main.py # Core script
-├── May Income Statement.xlsx # Example May P&L data
-├── June Income Statement.xlsx # Example June P&L data
-├── Chart of Accounts.xlsx # Account classification file
-├── pnl_variance_summary.csv # Output: variance summary
-├── venv/ # Python virtual environment (excluded from Git)
+** main.py # Core script
+** May Income Statement.xlsx # Example May P&L data
+** June Income Statement.xlsx # Example June P&L data
+** Chart of Accounts.xlsx # Account classification file
+** pnl_variance_summary.csv # Output: variance summary
+** venv/ # Python virtual environment (excluded from Git)
 
 ---
 
