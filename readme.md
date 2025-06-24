@@ -47,10 +47,11 @@ Calculate variances
 Output a CSV summary and print a clean table to the terminal
 
 🧠 Sample Output
-Account	  Type	    Amount_May	Amount_June	Variance	% Variance	Status
-Revenue	  Revenue	50000	    47000	    -3000	    -6.0%	    Unfavorable
-COGS	  Expense	20000	    19000	     1000	     5.0%	    Favorable
-Marketing Expense	5000	    8000	    -3000	   -60.0%	    Unfavorable
+| Account |   Type  | Amount_May |  Amount_June	| Variance | % Variance |   Status   | 
+|---------|---------|------------|--------------|----------|------------|------------|
+| Revenue |	Revenue |	50000	 |    47000	    |  -3000   |    -6.0%	| Unfavorable|
+|  COGS	  | Expense	|   20000	 |    19000	    |   1000   |	 5.0%	|  Favorable |
+|Marketing| Expense	|    5000	 |     8000	    |  -3000   |   -60.0%	| Unfavorable|
 
 ## 🔮 Roadmap
  Add OpenAI GPT integration for automatic written explanations
