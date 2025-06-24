@@ -1,0 +1,7 @@
+Account,Amount_May,Amount_June,Type,Variance,% Variance,Status
+revenue,50000,47000,Revenue,-3000,-6.0,Unfavorable
+cogs,20000,19000,Expense,1000,5.0,Favorable
+marketing expense,5000,8000,Expense,-3000,-60.0,Unfavorable
+salaries,15000,15000,Expense,0,0.0,No Change
+rent,3000,3000,Expense,0,0.0,No Change
+utilities,800,950,Expense,-150,-18.75,Unfavorable
