@@ -31,7 +31,7 @@ python -m venv venv
 .\venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
 ```
-### 3. Set Up a Virtual Environment
+### 3. Run Script
 ```bash
 python main.py
 ```
