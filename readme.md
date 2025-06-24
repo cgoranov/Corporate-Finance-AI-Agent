@@ -18,25 +18,12 @@ This is a finance automation tool designed to assist with month-end close analys
 
 ---
 
-## 📁 Project Structure
-
-month_end_agent/
-├── main.py # Core script
-├── pnl_may.xlsx # Example May P&L data
-├── pnl_june.xlsx # Example June P&L data
-├── chart_of_accounts.xlsx # Account classification file
-├── pnl_variance_summary.csv # Output: variance summary
-├── venv/ # Python virtual environment (excluded from Git)
-└── README.md # Project overview
-
----
-
 ## ⚙️ How to Use
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/month-end-close-ai-agent.git
-cd month-end-close-ai-agent
+git clone https://github.com/cgoranov/Corporate-Finance-AI-Agent.git
+cd month_end_agent
 
 ### 2. Set Up a Virtual Environment
 python -m venv venv
