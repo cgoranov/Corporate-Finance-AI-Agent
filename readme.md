@@ -31,7 +31,7 @@ python -m venv venv
 .\venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
 ```
-### 3. Run Script
+### 3. Run Script (make sure you have Python 3.10 or higher installed)
 ```bash
 python main.py
 ```
