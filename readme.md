@@ -24,17 +24,19 @@ This is a finance automation tool designed to assist with month-end close analys
 ```bash
 git clone https://github.com/cgoranov/Corporate-Finance-AI-Agent.git
 cd month_end_agent
-
+```
 ### 2. Set Up a Virtual Environment
+```bash
 python -m venv venv
 .\venv\Scripts\activate        # On Windows
 pip install -r requirements.txt
-
+```
 ### 3. Set Up a Virtual Environment
+```bash
 python main.py
+```
 
-
-## This will:
+### This will:
 
 Load May and June P&L data
 
@@ -50,7 +52,7 @@ Revenue	  Revenue	50000	    47000	    -3000	    -6.0%	    Unfavorable
 COGS	  Expense	20000	    19000	     1000	     5.0%	    Favorable
 Marketing Expense	5000	    8000	    -3000	   -60.0%	    Unfavorable
 
-🔮 Roadmap
+## 🔮 Roadmap
  Add OpenAI GPT integration for automatic written explanations
 
  Add Streamlit dashboard interface
