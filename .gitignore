@@ -1,0 +1,6 @@
+# ignore virtual environment files
+venv
+.venv
+
+# ignore excel locking files
+.~lock*
